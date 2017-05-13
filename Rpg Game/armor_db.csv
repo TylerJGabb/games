@@ -1,0 +1,43 @@
+#DATA STRUCTURE BELOW:
+# 0, 1,   2,    3,     4,   5,   6,  7
+#ID,Name,Type,Strength,Stam,Crit,Hit,Dmg
+#int,str, str,  int,    int, int,int,int
+
+#_________WEAPON________
+1,Mossy Stick,Weapon,1,1,0,0,3
+10,Fists,Weapon,0,0,0,0,0
+17,Wooden Sword,Weapon,2,1,1,1,5
+19,Shadow Thane,Weapon,3,2,3,7,5
+
+#_________HELMET_______
+2,Bandana,Helmet,1,1,0,0,0
+11,Nothing,Helmet,0,0,0,0,0
+18,Propeller Cap,Helmet,1,0,0,0,1
+
+#_________BELTS__________
+3,Cloth Sash,Belt,1,1,0,0,0
+12,Nothing,Belt,0,0,0,0,0
+
+#_________BOOTS__________
+4,Cloth Sandals,Boots,1,1,0,0,0
+13,Nothing,Boots,0,0,0,0,0
+
+#_________PANTS__________
+5,Ripped Cloth Pants,Pants,0,1,0,0,0
+9,Leather Pants,Pants,2,2,0,2,0
+
+#_________CHEST__________
+6,Ripped Cotton Shirt,Chest,1,1,0,0,0
+
+#_________GLOVES_________
+7,Cloth Gloves,Gloves,1,1,0,0,0
+8,Leather Gloves,Gloves,2,2,0,1,0
+
+#_________SHOULDERS_______
+14,Nothing,Shoulder,0,0,0,0,0
+
+#_________BRACERS_________
+15,Friendship Bracelet,Bracers,0,0,0,0,0
+
+#_________CLOAK___________
+16,Nothing,Cloak,0,0,0,0,0
